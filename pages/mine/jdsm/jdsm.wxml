@@ -1,0 +1,10 @@
+<view class="fo-36 text-center bold">申请接单电子协议书</view>
+<view class='fo-28 pa-30'>
+<text space="true" decode="true">&emsp;&emsp;用户一旦确认本协议，点击“同意协议并保存”按钮即视为同意签订本协议，不论用户是否真正阅读本协议。所以本平台提醒用户认真阅读本协议并确认本协议的所有条款。如有疑问可咨询客服。
+</text>
+  
+  
+</view>
+<view class='pa-30'>
+  <button class='btns' bindtap='jdsm'>同意协议并保存</button>
+</view>
