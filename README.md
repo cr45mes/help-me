@@ -1,5 +1,11 @@
 # 综合实训跑腿小程序 小程序页面 
 
+
+
+
+
+![r1](https://img.shields.io/badge/version-1.0-informational)
+
 ![r1](img/r1.jpg)
 
 
