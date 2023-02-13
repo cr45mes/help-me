@@ -292,7 +292,7 @@ Page({
    */
   onShareAppMessage: function () {
     return {
-      title:'互帮互助代替你',
+      title:'帮我一个忙',
       path:'/pages/index/index'
     }
   }
