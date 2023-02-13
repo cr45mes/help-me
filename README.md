@@ -1,7 +1,3 @@
----
-typora-copy-images-to: C:\Users\TH\Desktop
----
-
 # 综合实训跑腿小程序 小程序页面 
 
 ![r1](img/r1.jpg)
